@@ -5,9 +5,9 @@ Nous comparons les performances de ces processus pour n = 100 000 et n= 1 000 00
 
  Pour n=100000       | Spark                 |        Numpy       |
 | :-----------------: |:-------------------: | :-----------------:|
-| Temps d'exécution  | 1.152  Secondes       | 0.128 Secondes     |
-| Valeur de Pi       | 3.14136               | 3.13512            |
-| Ecart % Math.pi    | -0.000232             | -0.00647           |
+| Temps d'exécution  | 1.619 Secondes       | 0.134 Secondes     |
+| Valeur de Pi       | 3.14572               | 3.1442            |
+| Ecart % Math.pi    | 0.0041             | 0.0026         |
 
  Pour n=100000       | Spark                 |        Numpy       |
 | :-----------------: |:-------------------: | :-----------------:|
