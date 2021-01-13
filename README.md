@@ -13,3 +13,9 @@ temps d'exécution	2,4942	1,0621
 valeurs de pi	3,13956	3,1425
 écart % Math.pi	-0,002	0,0009
 
+ Pour n=100000       | Spark                 |        Numpy       |
+| :-----------------: |:-------------------: | :-----------------:|
+| Temps d'exécution  | 1.152  Secondes       | 0.128 Secondes     |
+| Valeur de Pi       | 3.14136               | 3.13512            |
+| Ecart % Math.pi    | -0.000232             | -0.00647           |
+
